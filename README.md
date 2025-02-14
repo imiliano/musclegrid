@@ -1,4 +1,6 @@
 # musclegrid
 WebApp for show exercises with a grid design.
 
-React + Bootstrap
+#stack
+Yarn / Vite
+React JS + Bootstrap
