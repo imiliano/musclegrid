@@ -2,7 +2,7 @@
 
 WebApp for show exercises with a grid design.
 
-#stack:
+Stack:
 
 Yarn / Vite
 React JS + Bootstrap
